@@ -11,4 +11,4 @@ print(True+True)    #valid
 
 print(10+"Python")      #TypeError
 print(10.5+"Python")    #TypeError
-print(True,"Python")    TypeError
+print(True,"Python")    #TypeError
